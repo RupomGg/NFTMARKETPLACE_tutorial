@@ -1,0 +1,26 @@
+{
+  "name": "nftmarketplace",
+  "version": "1.0.0",
+  "description": "NFT MARKET PLACE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RupomGg/NFTMARKETPLACE_tutorial_1st.git"
+  },
+  "keywords": [
+    "nft",
+    "soliidity"
+  ],
+  "author": "MD Radwan Ahamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RupomGg/NFTMARKETPLACE_tutorial_1st/issues"
+  },
+  "homepage": "https://github.com/RupomGg/NFTMARKETPLACE_tutorial_1st#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0"
+  }
+}
